@@ -1,5 +1,7 @@
 ### Think big, dream bigger. 🤩
 
+Check out any of my projects I work on here.
+
 <!--
 **gmadharh/gmadharh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
