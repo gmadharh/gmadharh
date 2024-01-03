@@ -9,7 +9,7 @@ Check out any of my projects I work on here.
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gevinm)
+[![LinkedIn]()](https://linkedin.com/in/gevinm)
 
 
 
@@ -17,7 +17,7 @@ Check out any of my projects I work on here.
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://linkedin.com/in/gevinm"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/gevinm" alt="LinkedIn Badge"></a> 
+        <a href="https://linkedin.com/in/gevinm"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
 <a href="https://www.youtube.com/channel/UCTYgh_w12MwRA_I2aq73lrQ"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
    </p>
 
