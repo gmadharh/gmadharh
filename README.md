@@ -13,8 +13,8 @@ Check out any of my projects I work on here.
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://linkedin.com/in/gevinm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
-<a href="https://www.youtube.com/channel/UCTYgh_w12MwRA_I2aq73lrQ"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"></a>
+        <a href="https://linkedin.com/in/gevinm" target=”_blank”><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
+<a href="https://www.youtube.com/channel/UCTYgh_w12MwRA_I2aq73lrQ" target=”_blank”><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"></a>
    </p>
 
  <!-- Conecct section: END -->
