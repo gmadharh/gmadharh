@@ -1,8 +1,12 @@
-### Think big, dream bigger. 🤩
+### Hey, I'm Gevin. ![image](https://github.com/gmadharh/gmadharh/assets/58638508/d1721ee3-5512-4dbc-963f-db58d905ce5c)
+
+
 
 Check out any of my projects I work on here.
 
-Connect with me here: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gevinm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gevinm)
+
+
 
 <!--
 **gmadharh/gmadharh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
