@@ -1,12 +1,19 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hey, I'm Gevin</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Gevin+;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 
 
 
-Check out any of my projects I work on here.
+<!-- Conecct section -->
 
+<h2>Tech Stack</h3>
+    <p>
+    
+   </p>
+
+ <!-- Conecct section: END -->
 
 
 <!-- Conecct section -->
