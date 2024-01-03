@@ -14,9 +14,6 @@
 <img alt="github-snake" src="https://raw.githubusercontent.com/gmadharh/gmadharh/output/github-contribution-grid-snake-dark.svg" />
 
 
-
-
-
 ## 💻 Tech Stack: </h2>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -34,8 +31,9 @@
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://linkedin.com/in/gevinm" target=”_blank”><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
-<a href="https://www.youtube.com/channel/UCTYgh_w12MwRA_I2aq73lrQ" target=”_blank”><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"></a>
+      <a href="https://linkedin.com/in/gevinm" target=”_blank”><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
+      <a href="https://leetcode.com/gmadharh/" target="_blank"><img src="	https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode badge">
+      <a href="https://www.youtube.com/channel/UCTYgh_w12MwRA_I2aq73lrQ" target=”_blank”><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"></a>
    </p>
 
  <!-- Connect section: END -->
