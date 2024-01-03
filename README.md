@@ -10,11 +10,9 @@
 
 <h2>Contributions 🐍</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gmadharh/gmadharh/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+
+<img alt="github-snake" src="https://raw.githubusercontent.com/gmadharh/gmadharh/output/github-contribution-grid-snake-dark.svg" />
+
 
 
 
