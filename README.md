@@ -11,25 +11,20 @@
 
 
 
-<!-- Conecct section -->
 
-<h2>Tech Stack</h3>
-
-# 💻 Tech Stack:
+<h2>💻 Tech Stack: </h2>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-# 📝 Learning:
+<h2>📝 Learning: </h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
- <!-- Conecct section: END -->
 
-
-<!-- Conecct section -->
+<!-- Connect section -->
 
 <h2>Connect with me </h3>
     <p>
@@ -37,7 +32,7 @@
 <a href="https://www.youtube.com/channel/UCTYgh_w12MwRA_I2aq73lrQ" target=”_blank”><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"></a>
    </p>
 
- <!-- Conecct section: END -->
+ <!-- Connect section: END -->
 
 <!--
 **gmadharh/gmadharh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
