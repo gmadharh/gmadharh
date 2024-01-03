@@ -1,4 +1,14 @@
-### Hey, I'm Gevin. ![image](https://github.com/gmadharh/gmadharh/assets/58638508/d1721ee3-5512-4dbc-963f-db58d905ce5c)
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hey, I'm Gevin</h3>
+
+<!-- Profile Views -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gmadharh&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
+
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gevinm)
+</p>
 
 
 
