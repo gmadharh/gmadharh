@@ -1,7 +1,12 @@
 <!-- Heading -->
 <!-- <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>Welcome</h3> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Gevin.+;Nice+to+meet+you!)](https://git.io/typing-svg)
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Gevin.+;Nice+to+meet+you!">
+  </a>
+</h1>
 
 
 
