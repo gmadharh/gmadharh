@@ -14,7 +14,7 @@
 <img alt="github-snake" src="https://raw.githubusercontent.com/gmadharh/gmadharh/output/github-contribution-grid-snake-dark.svg" />
 
 
-## 💻 Tech Stack: </h2>
+## 💻 Familiar With: </h2>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
