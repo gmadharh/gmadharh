@@ -9,16 +9,15 @@
 </h1>
 
 <p>
-  Graduated from the University of Guelph majoring in Computer Science in 2022, quickly entered the industry and have been building stuff since then.
-
+  Graduated from the University of Guelph majoring in Computer Science in 2022, quickly entered the industry and have been building stuff since then. 🙌
 </p>
 
 <!-- Connect section -->
-  <p>
+  <span>
       <a href="https://linkedin.com/in/gevinm" target=”_blank”><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
 <!--       <a href="https://leetcode.com/gmadharh/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode badge"> -->
      <!-- <a href="https://www.youtube.com/channel/UCTYgh_w12MwRA_I2aq73lrQ" target=”_blank”><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"></a> -->
-   </p>
+   </span>
 
  <!-- Connect section: END -->
 
