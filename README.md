@@ -8,7 +8,10 @@
   </a>
 </h1>
 
-<p>Find out all of my projects I've worked on here. There should be something you like 🙂</p>
+<p>
+  Graduated from the University of Guelph majoring in Computer Science in 2022, quickly entered the industry and have been building stuff since then.
+
+</p>
 
 <!-- Connect section -->
   <p>
