@@ -9,7 +9,10 @@
 </h1>
 
 <p>
-  Graduated from the University of Guelph majoring in Computer Science in 2022, quickly entered the industry and have been building stuff since then. 🙌
+
+  <h4>Early on, I've always been interested in making stuff on computers. It started with a Minecraft server and plugins.</h4>
+  
+  I've graduated in <b>Computer Science</b> from the University of Guelph in 2022, quickly entered the industry, and have continued building stuff. 🙌
 </p>
 
 <!-- Connect section -->
