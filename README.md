@@ -1,5 +1,5 @@
 # 💫 About Me:
-Early on, I've always been interested in making stuff on computers. It started with a Minecraft server and plugins.<br>I've graduated in <b>Computer Science</b> from the <b>University of Guelph</b> in 2022, quickly entered the industry, and have continued building stuff. 🙌<br>
+Early on, I've always been interested in making stuff on computers. It started with a Minecraft server and plugins.<br>I've graduated in <b>Computer Science</b> from the <b>University of Guelph</b> in 2022, quickly entered the industry, and have continued building stuff. 🙌<br><br>
 
 
 ## 🌐 Connect with me:
