@@ -1,52 +1,13 @@
-<!-- Heading -->
-<!-- <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>Welcome</h3> -->
+# 💫 About Me:
+Early on, I've always been interested in making stuff on computers. It started with a Minecraft server and plugins.<br>I've graduated in <b>Computer Science</b> from the <b>University of Guelph</b> in 2022, quickly entered the industry, and have continued building stuff. 🙌<br><br>
 
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Gevin.+;Nice+to+meet+you!">
-  </a>
-</h1>
-
-<p>
-
-  <h4>Early on, I've always been interested in making stuff on computers. It started with a Minecraft server and plugins.</h4>
-  
-  I've graduated in <b>Computer Science</b> from the University of Guelph in 2022, quickly entered the industry, and have continued building stuff. 🙌
-</p>
-
-<!-- Connect section -->
-  <span>
-      <a href="https://linkedin.com/in/gevinm" target=”_blank”><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
-<!--       <a href="https://leetcode.com/gmadharh/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode badge"> -->
-     <!-- <a href="https://www.youtube.com/channel/UCTYgh_w12MwRA_I2aq73lrQ" target=”_blank”><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"></a> -->
-   </span>
-
- <!-- Connect section: END -->
-
---- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmadharh&layout=compact)
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gevinm) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gmadharh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gmadharh&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gmadharh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-<img alt="github-snake" src="https://raw.githubusercontent.com/gmadharh/gmadharh/output/github-contribution-grid-snake-dark.svg" />
-
-
-
-
-
-
-<!--
-**gmadharh/gmadharh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://visitcount.itsvg.in/api?id=gmadharh&icon=0&color=0)](https://visitcount.itsvg.in)
