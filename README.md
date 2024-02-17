@@ -1,12 +1,9 @@
-# 💫 About Me:
-hey there
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gevinm) 
- <br>
- ---
-<!--![](https://github-readme-stats.vercel.app/api?username=gmadharh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
-<p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=gmadharh&theme=tokyonight&hide_border=false" width="420px" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmadharh&theme=tokyonight&hide_border=false&hide=java&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+➡️ Hey there, my name's Gevin, I'm a computer science graduate from Canada, currently working in the industry.
+
+<ul>
+<li><a href="https://www.linkedin.com/in/gevinm/">LinkedIn</li>
+ <li>💌contact@gevin.ca</li>
+</ul>
+
+
